@@ -1,0 +1,16 @@
+Dear Grace San,
+I would like to formally recommend [Gupta, Saksham] for promotion in recognition of his outstanding contributions to our team.
+Over the past [2.5 Years with MetLife(CAPG Vendor & Direct Employee)], he has consistently demonstrated strong initiative and technical expertise, most notably by successfully delivering multiple automation solutions. These automations have significantly improved efficiency, reduced manual effort, and created measurable value for our department.
+For reference, a few key achievements:
+•	Automated multiple Pipeline Scripts which reduced our manual efforts from 8-10 business days reduced to 10-15 minutes with 0 mistakes
+•	Automated nginx to Istio migration Environment Setup script
+•	Aligned multiple projects 12038,13820,12527,12607 with global compliances
+•	Not only API-Hub Activities, but he also supported for JP Claims AKS Environment Setup.
+In addition to his technical skills, Saksham has shown excellent problem-solving ability, ownership, and a proactive approach to identifying opportunities for process improvement. His contributions have had a direct positive impact on both productivity and team performance.
+Given his consistent performance, dedication, and the tangible value he has brought to the organization, I strongly believe that Saksham is well-deserving of a promotion.
+Thank you for considering this recommendation. Please let me know if you would like me to provide further details of his contributions.
+Thanks & Regards,
+以上、よろしくお願いいたします。
+Yeswanth Kumar Medidhi |Assistant Manager, Sr. Full Stack Software Engineer| CS0 Shared Services Group | Japan | MetLife Olinas Tower | 4-1-3 Taihei, Sumida-ku, Tokyo
+M: +8190 7541 0959| E: medidhi.yeswanthkumar@metlife.co.jp | www.metlife.co.jp
+ 

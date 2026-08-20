@@ -1,0 +1,9 @@
+1) Automated istio implementation in all nonprod 
+-> reducing 5-6 days of manual work triggering 150+ pipelines to a 40-50 minutes automation script, also 0 errors.
+
+2) Achieved complete DevX compliance untill SIT2 in 2 days using automated script and bypassing manual efforts 
+-> reducing manual efforts by 80-90%
+
+3) Did various POC's- Non-root user, Jfrog base image migration, Global template adoption 
+-> achieved 100% nonroot user in PROD by august month
+-> tracking and collaborating the DevX compliance for entire API-HUB 
